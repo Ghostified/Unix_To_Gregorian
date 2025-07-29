@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Output files
+converted_tickets.csv
+cp_two.csv
+input.json
+converted_tickets.json
+raw_tickets.json
+
+# Log or temp files
+*.log
+*.tmp
+
+# OS-specific files
+Thumbs.db
+desktop.ini
+
+# Python cache
+*.pyo
+*.pyd
+
+# Environment variables / secrets
+.env
+
+# Pip wheel cache
+pip-wheel-metadata/
+*.egg-info/
