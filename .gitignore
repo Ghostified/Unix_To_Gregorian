@@ -24,6 +24,8 @@ cp_two.csv
 input.json
 converted_tickets.json
 raw_tickets.json
+tickets_29.json
+converted_29.json
 
 # Log or temp files
 *.log
