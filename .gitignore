@@ -26,6 +26,8 @@ converted_tickets.json
 raw_tickets.json
 tickets_29.json
 converted_29.json
+ticket_30.json
+convert_30.json
 
 # Log or temp files
 *.log
